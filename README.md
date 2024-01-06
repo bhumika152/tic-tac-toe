@@ -1,9 +1,10 @@
 # tic-tac-toe
 
 #Features
--Play Tic Tac Toe against a friend.
--Responsive design for various screen sizes.
--Real-time checking for winners or draws.
+Play Tic Tac Toe against a friend.
+
+Responsive design for various screen sizes.
+Real-time checking for winners or draws.
 
 #Usage
 -Click on any cell in the grid to place your move.
